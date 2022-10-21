@@ -3,7 +3,7 @@
 
 <h1 align-text="center"> Wesped </h1>
 
-### The integrative project of the first track of the Certified Tech Developer career sponsored by <a href='https://www.digitalhouse.com/ar/productos/programacion/certified-tech-developer'>Digital House - Mercado Libre - Globant</a>
+### The integrative project of the first track of the Certified Tech Developer career sponsored by <a href='https://www.digitalhouse.com/ar/productos/programacion/certified-tech-developer' target="_blank" >Digital House - Mercado Libre - Globant</a>
 ## Content
 
 - Project
