@@ -3,54 +3,54 @@
 
 <h1 align-text="center"> Wesped </h1>
 
-### El proyecto integrador del primer track de la carrera Certified Tech Developer
+### The integrative project of the first track of the Certified Tech Developer course
 
-## Contenido
+## Content
 
-- Proyecto
-    - Objetivos
-    - Producto desarrollado
-    - Estrutura del proyecto
+- Project
+    - Objectives
+    - Product developed
+    - Structure of the project
 
-- Herramientas implementadas
+- Implemented Tools
 
-- Entorno requerido
+- Required Enviroment
 
 - Sprints
-    - primer sprint
-    - segundo sprint
-    - tercer sprint 
-    - cuarto sprint
+    - First sprint
+    - Second sprint
+    - Third sprint 
+    - Fourth sprint
 
-- Equipo de desarrollo y roles
+- Development team and roles
 
 <hr/>
 
- <h2 text-align=center>Proyecto</h2>
- <p>El proyecto consta de la creación de un sitio web completo. Todo el proceso de desarrollo de esta web se divide en cuatro sprints.</p>
+ <h2 text-align=center>Project</h2>
+ <p>The project consists of the creation of a complete website. The whole development process of this website is divided into four sprints.</p>
 
  ![](/Wesped/otros/sprints.png) 
-    <h3> Objetivos </h3>
+    <h3> Objectives </h3>
 
-    1- Desarrollar una web que consuma una API
-    2- Crear una API
-    3- Definir una base de datos que, contenga la información que estas requieren
-    4- Generar la infraestructura para desplegarlas
-    5- Testear los procesos necesarios y los resultados de la implementación de estas instancias
+    1- Develop a web site that consumes an API.
+    2- Create an API.
+    3- Define a database that contains the information they require.
+    4- Generate the infrastructure to deploy them.
+    5- Test the necessary processes and the results of the implementation of these instances.
 
-<p>La importancia del PI se centra en el trabajo en equipo, la colaboración y la resolución de problemas. Su objetivo es crear un espacio para el desarrollo de las habilidades necesarias en el campo del desarrollo y la programación, todo bajo la premisa de "aprender, haciendo".</p>
-    <h3>Producto desarrollado</h3>
-<p>El equipo lleva adelante la creación de una web de reservas de casas y hoteles. Para ello, se creó la marca WESPED. <br>
-La palabra remite al húesped, vocablo que significa "el que hospeda y es hospedado". Porque nuestra web busca acercar a las personas a esos lugares especiales, dónde puedan encontrar un refugio que, se convierta en su hogar temporal; y un espacio para construir grandes recuerdos.</p>
-    <h3>Estrutura del proyecto</h3>
-<p>El proyecto se encuentra organizado en carpetas de cada área de desarrollo, estas permiten la mejor organización del código y la posibilidad de ver los módulos que componen esta web.</p>
+<p>The importance of the IP focuses on teamwork, collaboration and problem solving. Its objective is to create a space for the development of the necessary skills in the field of development and programming, all under the premise of "learning by doing".</p>
+    <h3>Product developed</h3>
+<p>The team is working on the creation of a web site for home and hotel reservations. For this purpose, the WESPED brand was created. <br>
+The word refers to "húesped", a word that means "the one who hosts and is hosted". Because our website seeks to bring people closer to those special places, where they can find a shelter that becomes their temporary home; and a space to build great memories.</p>
+    <h3>Project structure</h3>
+<p>The project is organized in folders of each development area, these allow the best organization of the code and the possibility to see the modules that compose this web.</p>
 <hr/>
-<h3>Herramientas implementadas y Entorno requerido</h3>
+<h3>Implemented tools and required environment</h3>
 
 #### Front end
  - HTML + CSS + JS
- - React (create-react-app)
- - Node + NPM (styles component y Datepicker, entre otras dependencias)
+ - React.js (create-react-app)
+ - Node.js + NPM (styles component and Datepicker, among other dependencies)
  - Visual Code
 
 #### Back end
@@ -58,7 +58,7 @@ La palabra remite al húesped, vocablo que significa "el que hospeda y es hosped
  - Spring 
  - Intellij
 
-#### Base de datos
+#### Database
  - MySQL
  - MySQL Workbench
 
@@ -67,36 +67,39 @@ La palabra remite al húesped, vocablo que significa "el que hospeda y es hosped
  - Selenium
  - Jest
 
-#### Infraestructura
+#### Infraestructure
  - Gitlab 
  - AWS
-
+ 
 <hr/>
 <h3>Sprints</h3>
-    - primer sprint
+    - First sprint
 
 ![](/Wesped/otros/1s.png)
 
-    - segundo sprint
+    - Second sprint
 
 ![](/Wesped/otros/2s1.png)
 ![](/Wesped/otros/2s2.png)
 
-    - tercer sprint 
+    - Third sprint 
 ![](/Wesped/otros/3s.jpeg)
 
-    - cuarto sprint
+    - Fourth sprint
 
 <hr/>
-<h3> Equipo de desarrollo y roles principales</h3>
+<h3> Development team and main roles</h3>
 
-### Equipo de Desarrollo
+### Development team
+- <b>Juan Ignacio Basualdo</b> <p>roles: Front</p>
+Email: <a>basualdo.ij@gmail.com</a> 
+<br>
 
 - <b>Maira Alejandra Marin Morales</b> <p>roles: Infra, Back, BBDD</p>
 Email: <a>maialemarin@utp.edu.co</a> 
 <br>
 
-- <b>Pablo Alarcón</b> <p>roles: Back, Front</p> 
+- <b>Pablo Alarcón</b> <p>roles: Back</p> 
 Email: <a>apablo.alarcon@gmail.com</a> 
 <br>
 
@@ -108,26 +111,20 @@ Email: <a>vilattaromina@gmail.com</a>
 Email: <a>dinaperezmontes@gmail.com</a> 
 <br>
 
-- <b>Andres Felipe Fajardo Parra</b> <p>roles:Testing, Back</p>
+- <b>Andres Felipe Fajardo Parra</b> <p>roles:Testing</p>
 Email: <a>pipeparra32@gmail.com</a> 
 <br>
 
-- <b>Juan Ignacio Basualdo</b> <p>roles: Front</p>
-Email: <a>basualdo.ij@gmail.com</a> 
-<br>
-
-- <b>R Indira Valentina Réquiz Molina</b> <p>roles: Infra, Front, BBDD </p>
+- <b>R Indira Valentina Réquiz Molina</b> <p>roles: Infra, BBDD </p>
 Email: <a>indirarequiz@gmail.com</a> 
 <br>
 <hr/>
 
-### Equipo técnico y rol
+### Technical team and role
 
 - <b>Mailen Slavutzky</b> <p>rol: Scrum Master</p><br>
 
 - <b>Diego Testa</b> <p>rol: Product Owner</p><br>
-
-- <b>Daniel Leonardo Villajuan</b> <p>rol: Tech Lead</p><br>
 
 <hr/>
 
